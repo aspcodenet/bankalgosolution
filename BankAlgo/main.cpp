@@ -18,7 +18,7 @@ void demo()
 		std::cout << "exists";
 	}
 	std::cout << lookup_table.count('g')  << std::endl;
-	//prints gamma
+	//prints gamma 
 }
 
 int main()
